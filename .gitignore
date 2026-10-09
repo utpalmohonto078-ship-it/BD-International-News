@@ -1,0 +1,12 @@
+admin-password.txt
+session-secret.txt
+.env
+__pycache__/
+*.pyc
+logs/
+backup/
+news-data/
+
+# Local backup files
+app.py.before-env-backup
+*.before-env-backup
